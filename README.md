@@ -1,1 +1,1 @@
-## Basic paytm like clone for bunny transaction
+## Basic paytm like clone for dummy transactions
